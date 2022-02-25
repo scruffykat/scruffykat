@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheScruffyKat
-- 👀 I’m interested in making games
+- 👀 I’m interested in making games, tools and modding
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on games and engines
 - 📫 How to reach me: github, itchio
