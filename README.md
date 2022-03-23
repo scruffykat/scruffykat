@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @TheScruffyKat
-- 👀 I’m interested in making games, tools and modding
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on games and engines
-- 📫 How to reach me: github, itchio
+Hello! I'm ScruffyKat, but you can call me Scruffy!
 
-Monke
+I'm a game developer and sometimes like to make some tools too.
 
-<!---
-TheScruffyKat/TheScruffyKat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Im also on itch ==> https://scruffykat.itch.io/
+
+https://www.catto.uk/ <== My website
+
+Happy coding!  - scruffy
