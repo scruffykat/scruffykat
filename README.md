@@ -22,3 +22,13 @@ Discord - ScruffyKat#6830
 
 Here are some links related to me: https://linktr.ee/scruffykat
 (Shameless plug I know.....)
+
+# Chartreux
+
+Chartreux is a collection of packages I made to make unity networking and a few other bits easier. These include easy EOS integration, Mirror voicechat and more to come.
+
+Current published/indev packages:
+
+- [Chartreux.VR](https://github.com/TheScruffyKat/chartreux.vr)
+
+- [Chartreux.voice](https://github.com/TheScruffyKat/chartreux.voice)
