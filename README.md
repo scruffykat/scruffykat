@@ -25,7 +25,7 @@ Here are some links related to me: https://linktr.ee/scruffykat
 
 # Chartreux
 
-Chartreux is a collection of packages I made to make unity networking and a few other bits easier. These include easy EOS integration, Mirror voicechat and more to come.
+Chartreux is a collection of packages I made to make unity networking and a few other bits easier. These include easy [EpicOnlineTransport](https://github.com/FakeByte/EpicOnlineTransport) integration, Mirror voicechat and more to come.
 
 Current published/indev packages:
 
