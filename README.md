@@ -8,6 +8,14 @@ I am also learning desktop app development with ElectronJS
 
 I work on my own games, as well as help out other people!
 
+# Langauges
+
+- C# (Primary)
+- Python
+- HTML, JS, CSS
+- Lua (Early Learning)
+- Kotlin (May try soon)
+
 # Games and apps I am working on
 
 Formal Ferrets [Meta Quest 2] - All
